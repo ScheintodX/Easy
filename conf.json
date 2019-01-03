@@ -1,0 +1,27 @@
+{
+"BUTTONS": "close hide menu shade stick maximize",
+"BTYPES": "active inactive prelight pressed",
+"BTOG": "shade stick maximize",
+
+"win_w": 800,
+"win_h": 400,
+
+"title_h": 44,
+"border_w": 6,
+"border_h": 6,
+
+"button_w": 36,
+
+"menu_x": 6,
+"stick_x": 42,
+"shade_x": 578,
+"maximize_x": 650,
+"hide_x": 722,
+"close_x": 758,
+
+"active_y": 0,
+"inactive_y": 400,
+"prelight_y": 800,
+"pressed_y": 1200
+}
+
